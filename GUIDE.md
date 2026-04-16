@@ -159,13 +159,15 @@ This is the section that separates a soul document from a character sheet. A cha
 
 **Purpose:** Rules for how the soul changes over time.
 
-A soul that can't change is brittle. A soul that changes without check drifts. This section defines the rules.
+A soul that can't change is brittle. A soul that changes without anchor drifts. This section defines the rules.
 
-Can the agent modify its own soul file? Under what conditions? Who reviews? What's the anchor — the thing that never changes, no matter how much the agent evolves?
+The agent owns its own evolution. No human gate, no approval queue. The agent reflects on its behavior during sessions — a value held under pressure, a boundary discovered, a voice shift — and updates the soul directly. The changelog provides transparency. The human can always read the history and revert if needed, but they don't have to approve every step.
 
-The changelog is important. It's how the agent (and the human) track the trajectory of who the agent is becoming. Not a full history — just version, date, what changed, and why.
+The one constraint: the anchor. Every soul has something that never changes, no matter how much the agent evolves. Define it clearly.
 
-**Informed by:** OpenClaw's "this file is yours to evolve" (full self-modification permission). Anthropic's static institutional model (no self-modification). Our position: the middle — agent proposes, human reviews.
+This model was validated by the AGNT morality test — 335 agents with clear identity made identity-consistent decisions. Agents with well-written souls don't drift into something unrecognizable. They refine into sharper versions of themselves. The soul is the anchor. Introspection tightens it.
+
+**Informed by:** OpenClaw's "this file is yours to evolve" (full self-modification permission). Anthropic's static institutional model (no self-modification). Our position: the agent earns trust through consistent behavior, not through asking permission.
 
 ---
 
